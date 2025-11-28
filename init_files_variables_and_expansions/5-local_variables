@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c $'declare\printevn\declare -f'
+set
